@@ -30,5 +30,4 @@ Send a text message to your Twilio phone number and start chatting with the chat
 
 Notes
 The chatbot assumes the persona of a loving son, providing positive and uplifting responses.
-
-
+Make sure to fill in the blanks with your own api key and tokens!
